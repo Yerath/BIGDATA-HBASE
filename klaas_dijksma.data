@@ -1,0 +1,5 @@
+put 'person', '3', 'personal_data:name', 'Klaas Dijksma'
+put 'person', '3', 'personal_data:city', 'Spakenburg'
+put 'person', '3', 'professional_data:position', 'Visboer'
+put 'person', '3', 'professional_data:wage', 0
+exit
